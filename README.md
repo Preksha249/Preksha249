@@ -12,6 +12,7 @@
 - 🌱 I’m currently **Pursuing masters in Computer Science**
 
 - 📫 How to reach me **prekshashridhar.usf@gmail.com**
+- Check out my portfolio at https://prekshashridhar-profile.netlify.app/ 
 
 <p><br></br></p>
 <h3 align="left">Connect with me:</h3>

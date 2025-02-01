@@ -9,7 +9,7 @@
 <p><br></br></p>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif">
 
-- 🌱 I’m currently **Pursuing masters in Computer Science**
+- 🌱 I’m currently **Pursuing masters in Computer Science** and Actively Looking for Full Time Opportunities
 
 - 📫 How to reach me **prekshashridhar.usf@gmail.com**
 - Check out my portfolio at https://prekshashridhar-profile.netlify.app/ 

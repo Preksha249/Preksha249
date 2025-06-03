@@ -5,12 +5,12 @@
 </p>
 <!-- [![MasterHead](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Preksha Shridhar</h1>
-<h3 align="center">Graduate Student at University of South Florida</h3><br/>
+<h3 align="center">Graduate Student from University of South Florida</h3><br/>
 <h3 align="center">Looking for Full Time Opportunity</h3>
 <p><br></br></p>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif">
 
-- 🌱 I’m currently **Pursuing masters in Computer Science** and Actively Looking for Full Time Opportunities
+- 🌱 I’m currently **Actively Looking for Full Time Opportunities**
 
 - 📫 How to reach me **prekshashridhar.official@gmail.com**
 - Check out my portfolio at https://prekshashridhar-profile.netlify.app/ 
